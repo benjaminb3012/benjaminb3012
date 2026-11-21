@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="[https://githubusercontent.com](https://avatars.githubusercontent.com/u/143199120?v=4)" width="150" />
+      <img src="mangar.jpg" width="150" />
     </td>
     <td width="70%">
       <h3 align="center">Qui suis-je ?</h3>
