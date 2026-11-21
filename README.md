@@ -40,5 +40,5 @@
 
 <!-- Optionnel : Statistiques GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminb3012&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
 </div>
