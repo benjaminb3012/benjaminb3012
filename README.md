@@ -11,7 +11,7 @@
     </td>
     <td width="70%">
       <h3 align="center">Qui suis-je ?</h3>
-      <p>Salut ! Moi c'est Edson, passionné par le développement web et la création d'interfaces modernes.</p>
+      <p>Salut ! Moi c'est Benjamin, passionné par le développement, j'apprend encore de nombreuse choses pour avoir de plus en plus de compétences.</p>
     </td>
   </tr>
 </table>
